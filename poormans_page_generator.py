@@ -9,7 +9,7 @@ import subprocess
 
 def create_homepage(pubtypes):
 	# convert bibfile to html lists
-	convert('pascal.bib', pubtypes, format='html')
+	convert('franka.bib', pubtypes, format='html')
 
 	# load files
 	index = Path('index.html_template').read_text()
@@ -28,7 +28,7 @@ def create_homepage(pubtypes):
 
 def create_latex(pubtypes, baseurl, template):
 	# convert bibfile to tex lists
-	convert('pascal.bib', pubtypes, format='tex')
+	convert('franka.bib', pubtypes, format='tex')
 
 	# load files
 	index = Path(f'{template}.tex_template').read_text()
@@ -61,6 +61,6 @@ if __name__ == '__main__':
 	pubtypes = ['preprint', 'publication', 'lecturenote', 'nonarchival', 'book']
 
 	create_homepage(pubtypes)
-	create_latex(pubtypes, baseurl='https://pwelke.github.io/', template='reflist')
-	create_latex(pubtypes + ['underreview'], baseurl='https://pwelke.github.io/', template='reflistcv')
+	create_latex(pubtypes, baseurl='https://frareba.github.io/', template='reflist')
+	create_latex(pubtypes + ['underreview'], baseurl='https://frareba.github.io/', template='reflistcv')
 	compile_latex('reflist', pubtypes + ['underreview'])
