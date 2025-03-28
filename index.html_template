@@ -14,7 +14,8 @@
 
 <img src="bild.png" width="150" height="150">
 
-<p>I am a PhD student in the Data Mining and Machine Learning (Machine Learning with Graphs) group at University of Vienna.
+<p>
+I am a PhD student in the Data Mining and Machine Learning (<a href="https://kriegegroup.univie.ac.at/">Machine Learning with Graphs</a>) group at University of Vienna.
 I completed both my Bachelor’s and Master’s degrees at TU Dortmund University, graduating with honors in 2020.
 Throughout my studies, I gained valuable experience working as a research and teaching assistant.
  My research mostly centers around similarity measures for graphs, with the aim of improving both efficiency and accuracy.
@@ -35,12 +36,19 @@ Throughout my studies, I gained valuable experience working as a research and te
 -->
 
 <h2 id="contact">Contact</h2>
+<p>I have accounts on <a href="https://scholar.google.com/citations?user=UTQlpH8AAAAJ&hl=de">Google Scholar</a>, <a href="https://github.com/frareba">Github</a>, and <a href="https://at.linkedin.com/in/franka-bause-032111283?trk=public_profile_browsemap">LinkedIn</a>.</p>
 <b>Email:</b><br />
 You can send mail to franka.bause[at]univie.ac.at<br />
 
 <b>Office:</b><br />
 <a href="https://dm.cs.univie.ac.at/" target="blank">Faculty of Computer Science, Research Group Data Mining and Machine Learning</a><br />
 Room 6.01, Währingerstraße 29, 1090 Vienna, Austria<br />
+
+
+<p><a href="etc/test.html"><img src="etc/graph.png" width="150"  style="cursor:default;"
+     title="Click here!"></a>
+</p>
+
 
 <h2 id="news">News</h2>
 <table class="newstable">
