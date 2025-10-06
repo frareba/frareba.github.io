@@ -16,11 +16,11 @@
 <img src="bild.png" width="150" height="150">
 
 <p>
-I am a PhD student in the Data Mining and Machine Learning (<a href="https://kriegegroup.univie.ac.at/">Machine Learning with Graphs</a>) group at University of Vienna.
-I completed both my Bachelor’s and Master’s degrees at TU Dortmund University, graduating with honors in 2020.
-Throughout my studies, I gained valuable experience working as a research and teaching assistant.
- My research mostly centers around similarity measures for graphs, with the aim of improving both efficiency and accuracy.
- I co-organized <a href="https://cestlawien.github.io/">C'Est La Wien</a>, and the <a href="https://mlg-europe.github.io/2024/">MLG workshop</a> in 2024.
+I am a Postdoc in the Data Mining and Machine Learning (<a href="https://kriegegroup.univie.ac.at/">Machine Learning with Graphs</a>) group at University of Vienna, where I completed my doctorate with distinction in 2025.
+<br /> I completed both my Bachelor’s and Master’s degrees at TU Dortmund University, graduating with honors in 2020.
+Throughout my studies, I gained valuable experience working as a research and teaching assistant.<br />
+ My research mostly centers around graph learning and similarity measures for graphs, with the aim of improving both efficiency and accuracy.<br />
+ I co-organized <a href="https://cestlawien.github.io/">C'Est La Wien 2023</a>, and the <a href="https://mlg-europe.github.io/">MLG workshop</a> in <a href="https://mlg-europe.github.io/2024/">2024</a> and <a href="https://mlg-europe.github.io/2025/">2025</a>.
 </p>
 
 <!--
@@ -53,6 +53,8 @@ Room 6.01, Währingerstraße 29, 1090 Vienna, Austria<br />
 
 <h2 id="news">News</h2>
 <table class="newstable">
+  <tr><td>Sep '25</td><td> We organized the <a href="https://mlg-europe.github.io/">22nd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Porto.</td></tr>
+  <tr><td>Aug '25</td><td> I successfully defended my doctoral thesis on <i> Efficient and Expressive Graph Learning. </i> </td></tr>
   <tr><td>Jun '25</td><td> I got awarded the "Best of the Best"-Award in the category <i> Publications in highest ranking venues 2024 </i> from the <a href="https://informatik.univie.ac.at/fakultaet/media-wall/fotogalerien/fakultaetsveranstaltung2025/">faculty of computer science</a>! </td></tr>
   <tr><td>May '25</td><td> Happy to announce that we'll be organizing the <a href="https://mlg-europe.github.io/">22nd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Porto. Submit your work until June 14th! </td></tr>
   <tr><td>Mar '25</td><td> Finally set up this website! </td></tr>
