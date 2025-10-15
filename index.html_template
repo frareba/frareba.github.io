@@ -46,11 +46,16 @@ You can send mail to franka.bause[at]univie.ac.at<br />
 Room 6.01, Währingerstraße 29, 1090 Vienna, Austria<br />
 
 
-<p>
-<img src="etc/graph.png"
-     alt="Graph"
-     style="width:150px; height:auto; border-radius:0 !important; overflow:visible !important; display:block; border:none; margin:0; padding:0; cursor:default;"
-     title="Click here!">
+<p style="margin:0; padding:0;">
+  <a href="etc/test.html"
+     style="display:inline-block; overflow:visible; text-decoration:none;">
+    <img src="etc/graph.png"
+         alt="Graph"
+         style="display:block; width:150px; height:auto;
+                border:none; border-radius:0 !important;
+                overflow:visible !important; cursor:default;"
+         title="Click here!">
+  </a>
 </p>
 
 <h2 id="news">News</h2>
