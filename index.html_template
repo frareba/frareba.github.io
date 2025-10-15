@@ -46,13 +46,19 @@ You can send mail to franka.bause[at]univie.ac.at<br />
 Room 6.01, Währingerstraße 29, 1090 Vienna, Austria<br />
 
 
-<p><a href="etc/test.html"><img src="etc/graph.png" width="150"  style="cursor:default;"
-     title="Click here!"></a>
+<p>
+<img src="etc/graph.png"
+     alt="Graph"
+     style="width:150px; height:auto; border-radius:0 !important; overflow:visible !important; display:block; border:none; margin:0; padding:0; cursor:default;"
+     title="Click here!">
 </p>
-
 
 <h2 id="news">News</h2>
 <table class="newstable">
+<!--
+  <tr><td>Dez '25</td><td> </td></tr>
+
+-->
   <tr><td>Sep '25</td><td> We organized the <a href="https://mlg-europe.github.io/">22nd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Porto.</td></tr>
   <tr><td>Aug '25</td><td> I successfully defended my doctoral thesis on <i> Efficient and Expressive Graph Learning. </i> </td></tr>
   <tr><td>Jun '25</td><td> I got awarded the "Best of the Best"-Award in the category <i> Publications in highest ranking venues 2024 </i> from the <a href="https://informatik.univie.ac.at/fakultaet/media-wall/fotogalerien/fakultaetsveranstaltung2025/">faculty of computer science</a>! </td></tr>
