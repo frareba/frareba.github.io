@@ -16,7 +16,8 @@
 <img src="bild.png" width="150" height="150">
 
 <p>
-I am a Postdoc in the Data Mining and Machine Learning (<a href="https://kriegegroup.univie.ac.at/">Machine Learning with Graphs</a>) group at University of Vienna, where I completed my doctorate with distinction in 2025.
+I am a Postdoc in the <a href="https://relationalml.github.io/">Relational Machine Learning Lab</a> of Rebekka Burkholz at <i>CISPA Helmholtz Center for Information Security</i>.
+I completed my doctorate with distinction in the Data Mining and Machine Learning (<a href="https://kriegegroup.univie.ac.at/">Machine Learning with Graphs</a>) group at University of Vienna in 2025.
 <br /> I completed both my Bachelor’s and Master’s degrees at TU Dortmund University, graduating with honors in 2020.
 Throughout my studies, I gained valuable experience working as a research and teaching assistant.<br />
  My research mostly centers around graph learning and similarity measures for graphs, with the aim of improving both efficiency and accuracy.<br />
@@ -39,11 +40,11 @@ Throughout my studies, I gained valuable experience working as a research and te
 <h2 id="contact">Contact</h2>
 <p>I have accounts on <a href="https://scholar.google.com/citations?user=UTQlpH8AAAAJ&hl=de">Google Scholar</a>, <a href="https://github.com/frareba">Github</a>, and <a href="https://at.linkedin.com/in/franka-bause-032111283?trk=public_profile_browsemap">LinkedIn</a>.</p>
 <b>Email:</b><br />
-You can send mail to franka.bause[at]univie.ac.at<br />
+You can send mail to franka.bause[at]cispa.de<br />
 
 <b>Office:</b><br />
-<a href="https://dm.cs.univie.ac.at/" target="blank">Faculty of Computer Science, Research Group Data Mining and Machine Learning</a><br />
-Room 6.01, Währingerstraße 29, 1090 Vienna, Austria<br />
+<a href="https://relationalml.github.io/" target="blank">Relational Machine Learning Lab, CISPA Helmholtz Center for Information Security </a><br />
+Room 0.06, Im Oberen Werk 1, St. Ingbert, 66386 Germany<br />
 
 
 <p style="margin:0; padding:0;">
@@ -64,6 +65,7 @@ Room 6.01, Währingerstraße 29, 1090 Vienna, Austria<br />
   <tr><td>Dez '25</td><td> </td></tr>
 
 -->
+<tr><td>Feb '26</td><td> I joined the <a href="https://relationalml.github.io/">Relational Machine Learning Lab</a> of Rebekka Burkholz at <i>CISPA Helmholtz Center for Information Security</i>! </td></tr>
  <tr><td>Dec '25</td><td> I received the <a href="https://www.bmfwf.gv.at/ministerium/staatspreise-auszeichnungen/staatspreise.html">Award of Excellence</a> from the <i>Austrian Ministry of Women, Science and Research</i> for my dissertation (see <a href="https://kriegegroup.univie.ac.at/franka-receives-the-award-of-excellence-national-prize-for-the-best-dissertations/">here</a> for photos)! </td></tr>
   <tr><td>Sep '25</td><td> We organized the <a href="https://mlg-europe.github.io/">22nd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Porto.</td></tr>
   <tr><td>Aug '25</td><td> I successfully defended my doctoral thesis on <i> Efficient and Expressive Graph Learning. </i> </td></tr>
