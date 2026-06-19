@@ -93,7 +93,6 @@ def format_bibitem(item, format):
         s += cf(f'[<a href="{item["biburl"]}">bibtex</a>]\n', f'[\\href{{{item["biburl"]}}}{{bibtex}}]\n', format)
     if nonempty('venuetype', item):
         s += cf(f'[<a href="{item["venueurl"]}">{item["venuetype"]}</a>]\n', f'[\\href{{{item["venueurl"]}}}{{{item["venuetype"]}}}]\n', format)
-    
     s += cf('</p>\n', f'}}\n', format)
     s += cf('</li>\n', '', format)
     return s

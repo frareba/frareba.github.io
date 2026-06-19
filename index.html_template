@@ -69,6 +69,9 @@ Room 0.06, Im Oberen Werk 1, St. Ingbert, 66386 Germany<br />
   <tr><td>Dez '25</td><td> </td></tr>
 
 -->
+  <tr><td>Aug '26</td><td> Together with <a href="https://informatics.tuwien.ac.at/people/tamara-drucks" target="_blank" rel="noopener noreferrer">Tamara</a>, I'll be giving a workshop on graph machine learning at the <a href="https://www.informatica-feminale.de/" target="_blank" rel="noopener noreferrer">29th Informatica Feminale</a>! </td></tr>
+  <tr><td>Jun '26</td><td> Our paper <a href="https://openreview.net/forum?id=2VkQ5OgvDa" target="_blank" rel="noopener noreferrer">Multi-Agent Systems are Mixtures of Experts: Who Becomes an Influencer?</a> was accepted at the ICML <a href="https://compositional-learning.github.io/" target="_blank" rel="noopener noreferrer">Workshop on Compositional Learning</a>! </td></tr>
+  <tr><td>May '26</td><td> Our paper <a href="https://kriegegroup.univie.ac.at/spotlight-paper-at-icml-2026/" target="_blank" rel="noopener noreferrer">A Unifying Relational Perspective on Expressive Lottery Tickets</a> was accepted as a Spotlight at ICML 2026!</td></tr>
   <tr><td>Mar '26</td><td> We'll be organizing the <a href="https://mlg-europe.github.io/" target="_blank" rel="noopener noreferrer">23rd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Naples. Submit your work until June 5th! </td></tr>
   <tr><td>Mar '26</td><td> Joining the organizing team of <a href="https://sites.google.com/view/graph-learning-on-weds" target="_blank" rel="noopener noreferrer">GLOW (Graph Learning on Wednesdays)</a>.</td></tr>
   <tr><td>Feb '26</td><td> I joined the <a href="https://relationalml.github.io/" target="_blank" rel="noopener noreferrer">Relational Machine Learning Lab</a> of Rebekka Burkholz at <i>CISPA Helmholtz Center for Information Security</i>! </td></tr>
@@ -87,7 +90,8 @@ Room 0.06, Im Oberen Werk 1, St. Ingbert, 66386 Germany<br />
    </table>
 </details><br />
 
-
+<h2 id="preprints">Current Preprints</h2>
+<object type="text/html" data="preprint.html_part"></object>
 
 <h2 id="publications">Publications</h2>
 <object type="text/html" data="publication.html_part"></object>
