@@ -25,7 +25,7 @@ Throughout my studies, I gained valuable experience working as a research and te
 </p>
 
 <p>
-You can find my CV somewhere on this pa<a href="etc/CV.pdf" target="_blank" rel="noopener noreferrer" style="display:inline-block; overflow:visible; text-decoration:none; color:gray;">g</a>e.
+You can find my CV <a href="etc/CV.pdf" target="_blank" rel="noopener noreferrer" style="display:inline-block; overflow:visible; text-decoration:none; color:gray;">here</a>.
 </p>
 
 <!--
@@ -69,19 +69,23 @@ Room 0.06, Im Oberen Werk 1, St. Ingbert, 66386 Germany<br />
   <tr><td>Dez '25</td><td> </td></tr>
 
 -->
-  <tr><td>Aug '26</td><td> Together with <a href="https://informatics.tuwien.ac.at/people/tamara-drucks" target="_blank" rel="noopener noreferrer">Tamara</a>, I'll be giving a workshop on graph machine learning at the <a href="https://www.informatica-feminale.de/" target="_blank" rel="noopener noreferrer">29th Informatica Feminale</a>! </td></tr>
+  <tr><td>Nov '26</td><td> I gave a keynote talk at the <a href="https://graphlearning-leipzig.github.io/2026/" target="_blank" rel="noopener noreferrer">LoG local meetup</a> in Leipzig.</td></tr>
+  <tr><td>Oct '26</td><td> I gave an invited talk in the <a href="https://www.linkedin.com/posts/dormant-neurons_siswiss-llms-siswiss-activity-7518944546454609921-xUtB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAETk0-YBuqyLs8UXShUlC9p7pBfiChADzKo" target="_blank" rel="noopener noreferrer">SisWiss consortium meeting</a> in Saarbrücken.</td></tr>
+  <tr><td>Sep '26</td><td> We organized the <a href="https://mlg-europe.github.io/2026/" target="_blank" rel="noopener noreferrer">23rd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Naples.</td></tr>
+  <tr><td>Aug '26</td><td> Together with <a href="https://informatics.tuwien.ac.at/people/tamara-drucks" target="_blank" rel="noopener noreferrer">Tamara</a>, I gave a workshop on graph machine learning at the <a href="https://www.informatica-feminale.de/" target="_blank" rel="noopener noreferrer">29th Informatica Feminale</a>! </td></tr>
   <tr><td>Jun '26</td><td> Our paper <a href="https://openreview.net/forum?id=2VkQ5OgvDa" target="_blank" rel="noopener noreferrer">Multi-Agent Systems are Mixtures of Experts: Who Becomes an Influencer?</a> was accepted at the ICML <a href="https://compositional-learning.github.io/" target="_blank" rel="noopener noreferrer">Workshop on Compositional Learning</a>! </td></tr>
+  <tr><td>May '26</td><td> I was one of the five finalists for the <a href="https://www.ocg.at/blog/heinz-zemanek-preis-2026-fuer-tijn-de-vos" target="_blank" rel="noopener noreferrer">Heinz Zemanek Preis 2026</a> and had the chance to present my work to the jury.</td></tr>
   <tr><td>May '26</td><td> Our paper <a href="https://kriegegroup.univie.ac.at/spotlight-paper-at-icml-2026/" target="_blank" rel="noopener noreferrer">A Unifying Relational Perspective on Expressive Lottery Tickets</a> was accepted as a Spotlight at ICML 2026!</td></tr>
-  <tr><td>Mar '26</td><td> We'll be organizing the <a href="https://mlg-europe.github.io/" target="_blank" rel="noopener noreferrer">23rd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Naples. Submit your work until June 5th! </td></tr>
-  <tr><td>Mar '26</td><td> Joining the organizing team of <a href="https://sites.google.com/view/graph-learning-on-weds" target="_blank" rel="noopener noreferrer">GLOW (Graph Learning on Wednesdays)</a>.</td></tr>
-  <tr><td>Feb '26</td><td> I joined the <a href="https://relationalml.github.io/" target="_blank" rel="noopener noreferrer">Relational Machine Learning Lab</a> of Rebekka Burkholz at <i>CISPA Helmholtz Center for Information Security</i>! </td></tr>
-  <tr><td>Dec '25</td><td> I received the <a href="https://www.bmfwf.gv.at/ministerium/staatspreise-auszeichnungen/staatspreise.html" target="_blank" rel="noopener noreferrer">Award of Excellence</a> from the <i>Austrian Ministry of Women, Science and Research</i> for my dissertation (see <a href="https://kriegegroup.univie.ac.at/franka-receives-the-award-of-excellence-national-prize-for-the-best-dissertations/" target="_blank" rel="noopener noreferrer">here</a> for photos)! </td></tr>
   </table><br />
 
 
 <details>
   <summary> <b> Old News </b></summary><br />
     <table class="newstable">
+  <tr><td>Mar '26</td><td> We'll be organizing the <a href="https://mlg-europe.github.io/" target="_blank" rel="noopener noreferrer">23rd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Naples. Submit your work until June 5th! </td></tr>
+  <tr><td>Mar '26</td><td> Joining the organizing team of <a href="https://sites.google.com/view/graph-learning-on-weds" target="_blank" rel="noopener noreferrer">GLOW (Graph Learning on Wednesdays)</a>.</td></tr>
+  <tr><td>Feb '26</td><td> I joined the <a href="https://relationalml.github.io/" target="_blank" rel="noopener noreferrer">Relational Machine Learning Lab</a> of Rebekka Burkholz at <i>CISPA Helmholtz Center for Information Security</i>! </td></tr>
+  <tr><td>Dec '25</td><td> I received the <a href="https://www.bmfwf.gv.at/ministerium/staatspreise-auszeichnungen/staatspreise.html" target="_blank" rel="noopener noreferrer">Award of Excellence</a> from the <i>Austrian Ministry of Women, Science and Research</i> for my dissertation (see <a href="https://kriegegroup.univie.ac.at/franka-receives-the-award-of-excellence-national-prize-for-the-best-dissertations/" target="_blank" rel="noopener noreferrer">here</a> for photos)! </td></tr>
   <tr><td>Sep '25</td><td> We organized the <a href="https://mlg-europe.github.io/2025/" target="_blank" rel="noopener noreferrer">22nd International Workshop on Mining and Learning with Graphs</a> at ECML/PKDD in Porto.</td></tr>
   <tr><td>Aug '25</td><td> I successfully defended my doctoral thesis on <i> Efficient and Expressive Graph Learning. </i> </td></tr>
   <tr><td>Jun '25</td><td> I got awarded the "Best of the Best"-Award in the category <i> Publications in highest ranking venues 2024 </i> from the <a href="https://informatik.univie.ac.at/fakultaet/media-wall/fotogalerien/fakultaetsveranstaltung2025/" target="_blank" rel="noopener noreferrer">faculty of computer science</a>! </td></tr>
